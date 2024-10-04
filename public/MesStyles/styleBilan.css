@@ -1,0 +1,14 @@
+.CorpBilan {
+margin-top: 2rem;
+width: 95%;
+}
+.BilanThead {
+background-color: rgba(228, 230, 230, 0.731);
+font-weight: 800;
+}
+.BilanTable {
+    text-align: center;
+    font-size: 1.1rem;
+}
+
+
